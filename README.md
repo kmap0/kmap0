@@ -1,16 +1,13 @@
-## Hi there 👋
+## kmap
+<pre>
+ ~> <strong>cat about_me</strong>
+ Languages:      				  C, Python, x64 ASM
+ Languages I'm learning: 	                  Golang, HTML, CSS, JS
+ OS:           					  Windows, MacOS, Linux
+ Interests:				          Programming, Reverse Engineering, IoT
 
-<!--
-**kmap0/kmap0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ~> <strong>cat projects</strong>
+Projects:
+  - <a href="https://github.com/kmap0/myvm">myvm</a> x64 Virtual Machine written in C
+  - <a href="https://github.com/kmap0/kitty">kitty</a> linux ring 3 LD_PRELOAD rootkit
+</pre>
