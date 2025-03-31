@@ -7,7 +7,7 @@
  Interests:				          Programming, Reverse Engineering, IoT
 
  ~> <strong>cat projects</strong>
-Projects:
+ Projects:
   - <a href="https://github.com/kmap0/myvm">myvm</a> x64 Virtual Machine written in C
   - <a href="https://github.com/kmap0/kitty">kitty</a> linux ring 3 LD_PRELOAD rootkit
 </pre>
